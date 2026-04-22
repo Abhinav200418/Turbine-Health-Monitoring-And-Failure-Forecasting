@@ -67,7 +67,7 @@ It reflects practical skills required for data analytics and machine learning ro
 
 ##  Author  
 Tedlapu Abhinav  
-Aspiring Data Analyst  
+Aspiring Data Scientist  
 
 Passionate about transforming data into actionable insights.
 
