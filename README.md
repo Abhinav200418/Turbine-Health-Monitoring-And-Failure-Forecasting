@@ -1,4 +1,4 @@
-# ⚙️ Turbine Health Monitoring & Failure Prediction System
+# ⚙️ Turbine Health Monitoring & Failure Forecasting 
 
 ## 📌 Project Overview
 
